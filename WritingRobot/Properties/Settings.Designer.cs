@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WritingRobot.Properties
+namespace WriteRobot.Properties
 {
 
 

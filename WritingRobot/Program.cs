@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Windows.Forms;
 
-namespace WritingRobot
+namespace WriteRobot
 {
 	static class Program
 	{
@@ -14,7 +14,7 @@ namespace WritingRobot
 		{
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
-			Application.Run(new RadForm1());
+			Application.Run(new MainForm());
 		}
 	}
 }
